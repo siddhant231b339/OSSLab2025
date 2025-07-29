@@ -7,5 +7,5 @@ Roll Number: 231B339
 Email: 231b339@juetguna.in
 
 x= int(input("Enter first number:"))  
-y= int(input("Enter second number:"))
+y= int(input("Enter second number:"))  
 print(x+y)
